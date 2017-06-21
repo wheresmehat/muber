@@ -1,6 +1,6 @@
 # muber
 
-uber like geolocation search using GeoJSON support in mongoDB
+uber like geolocation search using GeoJSON support in mongoDB from The Complete Developers Guide to MongoDB
 
 Routes:
 
